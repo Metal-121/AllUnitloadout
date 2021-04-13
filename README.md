@@ -5,7 +5,7 @@ The array file including sfp_m90w excluding the MP units.
 
 FAQ
 
-*What happens if a unit is selected in the first sorting but no loadout is found for the class
+* What happens if a unit is selected in the first sorting but no loadout is found for the class
 
 The unit will be undressed, no default option added at this time
 
