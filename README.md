@@ -17,4 +17,6 @@ class Extended_Init_Eventhandlers {
 
 The unit will be undressed, no default option added at this time
 
-*
+* Does it requier any mods?
+
+Yes, CBA_A3 due to the extended eventhandler, in it's form it do requier SFP (Swedish Force Pack)
